@@ -1,16 +1,24 @@
-### Hi there 👋
+![Captura de pantalla de 2022-02-02 20-27-17](https://user-images.githubusercontent.com/7197057/152254899-487dad7e-2ce8-4465-b806-3b85a18e356b.png)
 
-<!--
-**JessSaavedra/JessSaavedra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mí
+ - _Desarrolladora de software en [10Pines](https://10pines.com/) 🌲_
+ - Fanática del CSS ✨
 
-Here are some ideas to get you started:
+### Charlas
+- Pokedex con Svelte - 10Pines Conf - 2021
+- [¿Te animás a cruzar el puente? Resolviendo acertijos con Prolog](https://www.youtube.com/watch?v=YqqgvVaovLE) - FemIt Conf - 2021
+- [Diseño responsive con CSS grid y gatitos](https://www.youtube.com/watch?v=fKGgdO9JQwM) - Nerdearla 101 - 2021
+- ¿Te animás a cruzar el puente? Resolviendo acertijos con Prolog - 10Pines Conf - 2020
+- Maquetado de landing pages - Encuentro latinoamericano de diseño (UP) - 2019
+- Sistemas de tipos y feminismo - Google Developer Groups Devfest - 2019
+- [Elige tu propia aventura: desarrollo backend](https://www.youtube.com/watch?v=HeIhNAiGCSU) - Chicas programando - 2019
+- Devs vs designers - 10Pines Conf - 2019
+- [Sistemas de tipos y feminismo: ¿dónde están las mujeres?](https://www.youtube.com/watch?v=W0LuygbrmhM) - 10Pines Conf - 2018
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Blog posts
+- [Diseño responsive con CSS grid y gatitos](https://blog.10pines.com/2020/06/08/diseno-responsive-con-css-grid-y-gatitos/) - [Responsive design with CSS grid and kittens](https://blog.10pines.com/2022/01/26/responsive-design-with-css-grid-and-kittens/)
+
+### Código utilizado en charlas / blog posts
+- [Pokedex con Svelte](https://github.com/JessSaavedra/pokedex-svelte)
+- [Acertijo del puente en Prolog](https://github.com/JessSaavedra/puente-prolog)
+- [CSS grid y gatitos](https://github.com/JessSaavedra/grillas-y-gatitos) - [CSS grid and kittens](https://github.com/JessSaavedra/grids-and-kittens)
