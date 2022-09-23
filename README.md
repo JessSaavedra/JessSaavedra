@@ -5,6 +5,7 @@
  - Fanática del CSS ✨
 
 ### Charlas
+- Elasticsearch Aggregations - 2022
 - Pokedex con Svelte - 10Pines Conf - 2021
 - [¿Te animás a cruzar el puente? Resolviendo acertijos con Prolog](https://www.youtube.com/watch?v=YqqgvVaovLE) - FemIt Conf - 2021
 - [Diseño responsive con CSS grid y gatitos](https://www.youtube.com/watch?v=fKGgdO9JQwM) - Nerdearla 101 - 2021
@@ -17,6 +18,9 @@
 
 ### Blog posts
 - [Diseño responsive con CSS grid y gatitos](https://blog.10pines.com/2020/06/08/diseno-responsive-con-css-grid-y-gatitos/) - [Responsive design with CSS grid and kittens](https://blog.10pines.com/2022/01/26/responsive-design-with-css-grid-and-kittens/)
+
+### Podcasts
+- [#1 Jess [Full Stack]](https://open.spotify.com/episode/5tWfJoW6zOA6qCO3u3bWoW?si=df26ec8975f44eb1) - LadyIT [Encuentros Tech]
 
 ### Código utilizado en charlas / blog posts
 - [Pokedex con Svelte](https://github.com/JessSaavedra/pokedex-svelte)
