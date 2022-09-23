@@ -5,7 +5,7 @@
  - Fanática del CSS ✨
 
 ### Charlas
-- Elasticsearch Aggregations - 2022
+- Elasticsearch Aggregations - 10Pines Conf - 2022
 - Pokedex con Svelte - 10Pines Conf - 2021
 - [¿Te animás a cruzar el puente? Resolviendo acertijos con Prolog](https://www.youtube.com/watch?v=YqqgvVaovLE) - FemIt Conf - 2021
 - [Diseño responsive con CSS grid y gatitos](https://www.youtube.com/watch?v=fKGgdO9JQwM) - Nerdearla 101 - 2021
