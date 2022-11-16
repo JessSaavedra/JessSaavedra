@@ -3,6 +3,7 @@
 ### Sobre mí
  - _Desarrolladora de software en [10Pines](https://10pines.com/) 🌲_
  - Fanática del CSS ✨
+ - También podés encontrarme en [LinkedIn](https://www.linkedin.com/in/jessica-saavedra-valenzuela/)
 
 ### Charlas
 - Elasticsearch Aggregations - 10Pines Conf - 2022
