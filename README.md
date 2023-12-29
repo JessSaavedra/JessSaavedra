@@ -6,6 +6,7 @@
  - También podés encontrarme en [LinkedIn](https://www.linkedin.com/in/jessica-saavedra-valenzuela/)
 
 ### Charlas
+- Astro no es Rocket Science - 10Pines Conf - 2023
 - Elasticsearch Aggregations - 10Pines Conf - 2022
 - Pokedex con Svelte - 10Pines Conf - 2021
 - [¿Te animás a cruzar el puente? Resolviendo acertijos con Prolog](https://www.youtube.com/watch?v=YqqgvVaovLE) - FemIt Conf - 2021
