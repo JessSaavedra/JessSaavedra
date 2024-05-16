@@ -6,6 +6,7 @@
  - También podés encontrarme en [LinkedIn](https://www.linkedin.com/in/jessica-saavedra-valenzuela/)
 
 ### Charlas
+- [Documentá tus proyectos en 15 minutos con Docusaurus](https://www.youtube.com/live/obvFzpiOBWw?si=3JkKMiqTwvL9IUU5&t=2263) - React BA Meetup - 2024
 - Astro no es Rocket Science - 10Pines Conf - 2023
 - Elasticsearch Aggregations - 10Pines Conf - 2022
 - Pokedex con Svelte - 10Pines Conf - 2021
