@@ -20,11 +20,12 @@
 - Devs vs designers - 10Pines Conf - 2019
 - [Sistemas de tipos y feminismo: ¿dónde están las mujeres?](https://www.youtube.com/watch?v=W0LuygbrmhM) - 10Pines Conf - 2018
 
+### Podcasts / Entrevistas
+- [Entrevista a 10Pines](https://www.youtube.com/watch?v=yax7S6sFK0s) - Radio Milenium FM 106.7 [Humanos con Recursos]
+- [#1 Jess [Full Stack]](https://open.spotify.com/episode/5tWfJoW6zOA6qCO3u3bWoW?si=df26ec8975f44eb1) - LadyIT [Encuentros Tech]
+
 ### Blog posts
 - [Diseño responsive con CSS grid y gatitos](https://blog.10pines.com/2020/06/08/diseno-responsive-con-css-grid-y-gatitos/) - [Responsive design with CSS grid and kittens](https://blog.10pines.com/2022/01/26/responsive-design-with-css-grid-and-kittens/)
-
-### Podcasts
-- [#1 Jess [Full Stack]](https://open.spotify.com/episode/5tWfJoW6zOA6qCO3u3bWoW?si=df26ec8975f44eb1) - LadyIT [Encuentros Tech]
 
 ### Código utilizado en charlas / blog posts
 - [Pokedex con Svelte](https://github.com/JessSaavedra/pokedex-svelte)
