@@ -22,6 +22,7 @@
 - [Sistemas de tipos y feminismo: ¿dónde están las mujeres?](https://www.youtube.com/watch?v=W0LuygbrmhM) - 10Pines Conf - 2018
 
 ### Podcasts / Entrevistas
+- [Una mirada a la IA desde el desarrollo de software](https://open.spotify.com/episode/3VS03aorAUrHsr6iyoCWPT?si=TDU0SLszQECXgkW5Mr1FwQ) - EmpatIA Podcast
 - [Entrevista a 10Pines](https://www.youtube.com/watch?v=yax7S6sFK0s) - Radio Milenium FM 106.7 [Humanos con Recursos]
 - [#1 Jess [Full Stack]](https://open.spotify.com/episode/5tWfJoW6zOA6qCO3u3bWoW?si=df26ec8975f44eb1) - LadyIT [Encuentros Tech]
 
